@@ -1,3 +1,3 @@
 # nlp-basics
 
-This repository contains examples for different NLP routines.
+This repository contains examples of preprocessing text data and training machine learning models.
